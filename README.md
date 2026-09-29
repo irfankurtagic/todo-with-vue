@@ -10,7 +10,6 @@ A small project created to experiment with Vue.js and build a simple, functional
 
 
 ## 📸 Theme
-A user indicates their preference through an operating system setting (e.g. light or dark mode) or a user agent setting. More about [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
 
 Dark             |  Light
 :-------------------------:|:-------------------------:
