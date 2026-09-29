@@ -10,7 +10,9 @@ A small project created to experiment with Vue.js and build a simple, functional
 
 
 ## 🌙 Theme
-The website automatically follows the user's system preference for light or dark mode using CSS prefers-color-scheme.
+
+The website automatically follows the user's system preference for light or dark mode using CSS `prefers-color-scheme`.
+
 Dark             |  Light
 :-------------------------:|:-------------------------:
 ![image](https://github.com/irfankurtagic/todo-wtih-vue/assets/72319855/2c9d5209-0c07-40f8-9a86-2ac3dfa0716b) | ![image](https://github.com/irfankurtagic/todo-wtih-vue/assets/72319855/aea1d509-d12a-401c-a653-000d6c9193b8)
