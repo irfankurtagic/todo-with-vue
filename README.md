@@ -1,6 +1,6 @@
-# To-Do with Vue.js
+# To-Do with Vue
 
-A lightweight and responsive to-do application built with **Vue**.
+A lightweight and responsive to-do application built with **Vue.js**.
 
 A small project created to experiment with Vue and build a simple, functional task list without unnecessary complexity.
 
