@@ -6,7 +6,7 @@ A small project created to experiment with Vue.js and build a simple, functional
 
 ## 🔗 Live Demo
 
-**Try [To-Do with Vue](https://irfankurtagic.github.io/todo-with-vue/).**
+**[Try To-Do with Vue](https://irfankurtagic.github.io/todo-with-vue/)**
 
 
 ## 📸 Theme
